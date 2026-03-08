@@ -1,0 +1,17 @@
+Copyright (c) 2026 Reviactyl
+
+Permission is granted to use these assets solely for the purpose of referencing or promoting Reviactyl, including in documentation, integrations, reviews, articles, and community projects related to Reviactyl.
+
+You may not:
+
+- Modify, distort, recolor, or create derivative versions of the logos or brand assets.
+- Use the assets in a way that implies endorsement or partnership without permission.
+- Use the assets for deceptive, fraudulent, or malicious purposes.
+- Use the assets as part of another product, brand, or trademark.
+
+The Reviactyl name, logo, and related marks are copyright of Reviactyl.
+The Designify name, logo, and related marks are copyright of Reviactyl.
+
+All rights not expressly granted are reserved.
+
+If you wish to request permission for uses outside this license, please e-mail branding@reviactyl.dev
