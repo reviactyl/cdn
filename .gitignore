@@ -1,3 +1,10 @@
 .vscode
 _content_workspace
 .cache
+node_modules
+dist
+build
+*.log
+*.env
+.DS_Store
+.idea
